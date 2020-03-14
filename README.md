@@ -1,2 +1,2 @@
 # Duplicated-Words
-Java Challenge
+How to find repeated/duplicated words in a string using Java
